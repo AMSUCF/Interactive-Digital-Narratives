@@ -1,0 +1,96 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Custom styles for Cyberpunk-inspired Slate theme
+// Color Variables
+$body-bg: #ffffff; // White background for readability
+$text-color: #000000; // Black text for readability
+$link-color: #2d74aa; // Dark blue for links
+$link-hover-color: #e8746c; // Magenta for link hover
+$header-bg: #0d0d0d; // Dark background for header
+$header-text-color: #eb4577; // Neon cyan for header text
+$border-color: #333; // Dark border color
+
+// Font Variables
+$base-font-family: 'Arial', sans-serif; // Standard font for readability
+$header-font-family: 'Orbitron', sans-serif; // Fancy font for headings
+
+// Cyberpunk Fonts
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=VT323&display=swap');
+
+// Body
+body {
+  background-color: $body-bg;
+  color: $text-color;
+  font-family: $base-font-family;
+}
+
+// Headers
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font-family;
+  color: $header-text-color;
+}
+
+// Links
+a {
+  color: $link-color;
+  text-decoration: none;
+  &:hover {
+    color: $link-hover-color;
+  }
+}
+
+// Navigation
+.navbar {
+  background-color: $header-bg;
+  border-bottom: 1px solid $border-color;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: $header-text-color;
+}
+
+// Footer
+footer {
+  background-color: $header-bg;
+  color: $text-color;
+  border-top: 1px solid $border-color;
+}
+
+// Buttons
+.btn {
+  background-color: $link-color;
+  border: 1px solid $border-color;
+  color: $body-bg;
+  &:hover {
+    background-color: $link-hover-color;
+    color: $body-bg;
+  }
+}
+
+// Code blocks
+pre, code {
+  background-color: #f5f5f5;
+  color: #000000;
+  border: 1px solid $border-color;
+}
+
+// Tables
+table {
+  border: 1px solid $border-color;
+  th, td {
+    border: 1px solid $border-color;
+  }
+}
+
+// Custom styles
+.custom-border {
+  border: 2px dashed $link-color;
+}
+
+.custom-background {
+  background-color: $header-bg;
+  color: $text-color;
+}
