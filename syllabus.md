@@ -48,7 +48,6 @@ Required books include:
 - [*Twining: Critical and Creative Approaches to Hypertext Narratives.* Anastasia Salter and Stuart Moulthrop (open access).](https://www.fulcrum.org/concern/monographs/ms35tb924)
 - *To Be or Not to Be: A Chooseable-Path Adventure.* Ryan North.
 - *Electronic Literature.* Scott Rettberg.
-- *Hamlet on the Holodeck.* Janet Murray.
 - *Game Design Vocabulary.* Anna Anthropy and Naomi Clark.
 
 In addition, students may opt to purchase games for their critiques: however, free options will be available for all critique prompts. We will be close-playing interactive digital narratives in class together every week.
@@ -89,20 +88,17 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 
 - Read: The Book as Interface, *The Book*
 - Read: Twine (R)evolutions, *Twining*
-- Read: Language, *Game Design Vocabulary*
 - Make: Twine - Conditionals & Choices
 - **Due: Critique One - Hypertext**
 
 **Week Four: Interactive Fiction - January 28th and 30th**
 
-- Read: Hypertext Fiction and Interactive Fiction, *Electronic Literature*
 - Read: Twine and the Question of Literature, *Twining*
-- Read: Verbs and Objects, *Game Design Vocabulary*
+- Read: Language, Verbs and Objects, *Game Design Vocabulary*
 - Make: Twine - Debugging & Style
 
 **Week Five: Electronic Literature - January 28th and 30th**
 
-- Read: Genres of Electronic Literature, *Electronic Literature*
 - Read: Queer Twine and Camp, *Twining*
 - Read: Scenes, *Game Design Vocabulary*
 - Make: Twine Game Playtest
@@ -110,7 +106,6 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 
 **Week Six: Digital Poetics - February 4th and 6th**
 
-- Read: Kinetic and Interactive Poetry, *Electronic Literature*
 - Read: Twine and the Critical Moment, *Twining*
 - Read: Context, *Game Design Vocabulary*
 - Make: Ren'Py Scenes
@@ -118,27 +113,26 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 
 **Week Seven: Visual Novels - February 11th and 13th**
 
-- Read: Networked Writing, *Electronic Literature*
-- Read: Part I, *Hamlet on the Holodeck* 
+- Read: Hypertext Fiction and Interactive Fiction, *Electronic Literature*
 - Read: Creating Dialogue, *Game Design Vocabulary*
 - Make: Ren'Py Dialogues
 
 **Week Eight: Adventure Games - February 18th and 20th**
 
 - Read: Resistance, *Game Design Vocabulary* 
-- Read: Part II, *Hamlet on the Holodeck*
+- Read: Genres of Electronic Literature, *Electronic Literature*
 - Make: Ren'Py Choices
 
 **Week Nine:  - February 25th and 27th**
 
 - Read: Storytelling, *Game Design Vocabulary*
-- Read: Part III, *Hamlet on the Holodeck*
+- Read: Kinetic and Interactive Poetry, *Electronic Literature*
 - Make: Ren'Py Conclusions
 - **Due: Critique Three - Adventure Game**
 
 **Week Ten: Future Platforms - March 4th and 6th**
 - Read: Further Playing, *Game Design Vocabulary*
-- Read: Part IV, *Hamlet on the Holodeck* 
+- Read: Networked Writing, *Electronic Literature*
 - Make: Ren'Py Polishing and Debugging
 
 **Last Class: Play and Critique - March 11th**
