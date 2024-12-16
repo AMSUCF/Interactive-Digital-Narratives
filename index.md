@@ -1,4 +1,4 @@
-# DGAH 120: Interactive Digital Narratives - Theory and Practice
+## DGAH 120
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** asalter@carleton.edu
@@ -9,13 +9,13 @@
 
 ## Contents
 
-- [DGAH 120: Interactive Digital Narratives - Theory and Practice](#dgah-120-interactive-digital-narratives---theory-and-practice)
-  - [Contents](#contents)
-  - [Course Description](#course-description)
-  - [Course Objectives](#course-objectives)
-  - [Materials and Texts](#materials-and-texts)
-  - [Evaluation and Grading](#evaluation-and-grading)
-  - [Weekly Schedule](#weekly-schedule)
+- [DGAH 120](#dgah-120)
+- [Contents](#contents)
+- [Course Description](#course-description)
+- [Course Objectives](#course-objectives)
+- [Materials and Texts](#materials-and-texts)
+- [Evaluation and Grading](#evaluation-and-grading)
+- [Weekly Schedule](#weekly-schedule)
   
 ---
 
