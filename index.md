@@ -3,7 +3,7 @@
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** asalter@carleton.edu
 - **Office:** TBD
-- **Office Hours:** Tuesday / Thursday 1:00 - 3:00 PM
+- **Office Hours:** Tuesday / Thursday 10:10 AM - 11:55 AM
 
 ---
 
@@ -25,8 +25,10 @@ Contemporary forms of interactive digital narrative, ranging from electronic lit
 
 The course is divided into two units, with corresponding creative projects: 
 
-- Hypertext & Electronic Literature. In this unit, we will read and critique printed nonlinear narratives, using both physical and digital works as an inspiration and considering the history of design approaches to hypertextual play in print. Throughout, we will work with both paper-based narrative design and use Twine as a prototyping tool to build new interactive digital narratives. 
-- Adventure Games & Visual Novels. In this unit, we will consider narrative games, with particular attention to adventure games, visual novels, and quest-driven narratives. We will use Ren'Py to build small narrative experiences, working with systems for developing simple visual environments and character interactions and conversations. Examples will include games across genres, including visual novels, walking simulators, and casual games
+- **Hypertext & Electronic Literature.** In our first unit, we will read and critique printed nonlinear narratives, using both physical and digital works as an inspiration and considering the history of design approaches to hypertextual play in print. Throughout, we will work with both paper-based narrative design and use Twine as a prototyping tool to build new interactive digital narratives. 
+- **Adventure Games & Visual Novels.** In our second unit, we will consider narrative games, with particular attention to adventure games, visual novels, and quest-driven narratives. We will use Ren'Py to build small narrative experiences, working with systems for developing simple visual environments and character interactions and conversations. Examples will include games across genres, including visual novels, walking simulators, and casual games.
+
+Students will have two personally-designed short interactive digital narratives completed at the conclusion of the course.
 
 ---
 
@@ -48,7 +50,7 @@ Required books include:
 - [*Twining: Critical and Creative Approaches to Hypertext Narratives.* Anastasia Salter and Stuart Moulthrop (open access).](https://www.fulcrum.org/concern/monographs/ms35tb924)
 - *To Be or Not to Be: A Chooseable-Path Adventure.* Ryan North.
 - *Electronic Literature.* Scott Rettberg.
-- *Game Design Vocabulary.* Anna Anthropy and Naomi Clark.
+- *Game Design Vocabulary.* Anna Anthropy and Naomi Clark. 
 
 In addition, students may opt to purchase games for their critiques: however, free options will be available for all critique prompts. We will be close-playing interactive digital narratives in class together every week.
 
@@ -75,7 +77,7 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 **Week One: Choose Your Own Adventure - January 7th and 9th** 
 
 - Read: The Book as Object, *The Book*
-- Read: Romeo and/or Juliet (complete at least one traversal) 
+- Read: *To Be or Not to Be* (complete at least one traversal) 
 - Make: Paper & String Prototype
 
 **Week Two: Imagining the Book - January 14th and 16th** 
@@ -89,7 +91,7 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 - Read: The Book as Interface, *The Book*
 - Read: Twine (R)evolutions, *Twining*
 - Make: Twine - Conditionals & Choices
-- **Due: Critique One - Hypertext**
+- **[Due January 23rd: Critique One - Hypertext](critiqueone.md)**
 
 **Week Four: Interactive Fiction - January 28th and 30th**
 
@@ -97,46 +99,43 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 - Read: Language, Verbs and Objects, *Game Design Vocabulary*
 - Make: Twine - Debugging & Style
 
-**Week Five: Electronic Literature - January 28th and 30th**
+**Week Five: Electronic Literature - February 4th and 6th**
 
 - Read: Queer Twine and Camp, *Twining*
 - Read: Scenes, *Game Design Vocabulary*
 - Make: Twine Game Playtest
-- **Due: Twine Hypertext**
+- **[Due February 6th: Twine Hypertext](twine.md)**
 
-**Week Six: Digital Poetics - February 4th and 6th**
+**Week Six: Digital Poetics - February 11th and 13th**
 
 - Read: Twine and the Critical Moment, *Twining*
 - Read: Context, *Game Design Vocabulary*
 - Make: Ren'Py Scenes
-- **Due: Critique Two - Electronic Literature**
+- **[Due February 13th: Critique Two - Electronic Literature](critiquetwo.md)**
 
-**Week Seven: Visual Novels - February 11th and 13th**
+**Week Seven: Visual Novels - February 18th and 20th**
 
 - Read: Hypertext Fiction and Interactive Fiction, *Electronic Literature*
 - Read: Creating Dialogue, *Game Design Vocabulary*
 - Make: Ren'Py Dialogues
 
-**Week Eight: Adventure Games - February 18th and 20th**
+**Week Eight: Adventure Games - February 25th and 27th**
 
 - Read: Resistance, *Game Design Vocabulary* 
 - Read: Genres of Electronic Literature, *Electronic Literature*
 - Make: Ren'Py Choices
+- **[Due February 27th: Critique Three - Adventure Game](critiquethree.md)**
 
-**Week Nine:  - February 25th and 27th**
+**Week Nine: Storytelling - March 4th and 6th**
 
 - Read: Storytelling, *Game Design Vocabulary*
 - Read: Kinetic and Interactive Poetry, *Electronic Literature*
 - Make: Ren'Py Conclusions
-- **Due: Critique Three - Adventure Game**
 
-**Week Ten: Future Platforms - March 4th and 6th**
+**Week Ten: Play and Critique - March 11th**
 - Read: Further Playing, *Game Design Vocabulary*
 - Read: Networked Writing, *Electronic Literature*
-- Make: Ren'Py Polishing and Debugging
-
-**Last Class: Play and Critique - March 11th**
 - Make: Ren'Py Game Playtest
-- **Due: Ren'Py Game**
+- **[Due: Ren'Py Game](renpy.md)**
 
-**Exam Day: Reflective Writing**
+**Exam Day: Reflective Writing - Monday, March 17th, 8:30 - 11:00 AM**

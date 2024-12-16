@@ -1,0 +1,11 @@
+## Twine Hypertext
+
+For this project, we'll be focusing on text and interaction. Your hypertext should be a complete, original short story developed in Twine. Think thoughtfully about your scope, and consider the examples we have reviewed in class as you work! Your game should include:
+
+- **Descriptive text:** Twine passages might describe places, people, imagery, imagined states, encounters, dreams, or faded memories: regardless, they should be evocative and effective, using breaks and passage links to provide pacing and room to explore the text. Pay attention to spelling, grammar, word choice, and visually-evocative language. Your work will likely scale at around 30 passages, though depending on your approach this could vary. (3 points)
+- **Narrative:** clear beginning, ending(s), and conflict. Use links, cycling links, and/or timers to progress the action. The player’s actions should clearly impact the narrative, even if the end is predetermined, and there should be more than one path to explore. Remember the narrative models we've viewed and think intentionally about your story's scope and scale. Personal is often more effective in Twine! (3 points)
+- **Characters:** focus on developing your narrator's voice, as well as the potential for interaction with any other characters, dream beings, memories, or metaphors introduced. Don't leave the player as a passive witness of character interactions if possible: instead, offer opportunities for direct control and engagement. (3 points)
+- **Visuals and interface:** Using CSS and the macros available, along with properly credited or original illustrations as appropriate, develop an aesthetic for play that fits with the work. Consider color, contrast, readability, and intentional play with fonts. (3 points)
+- **Playful interactions:** Think about opportunities to surprise, challenge, and engage your reader through Twine's hypertextual navigation. Consider the examples we've seen and try experimenting with similar concepts. (3 points)
+
+Submit your final game directly through Moodle, or host it on itch.io as preferred. We will play games together in-class, so games must be submitted before our class meeting on February 6th!
