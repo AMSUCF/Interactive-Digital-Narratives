@@ -3,8 +3,8 @@
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** asalter@carleton.edu
 - **Office:** Weitz 239A
-- **Office Hours:** Tuesday / Thursday 10:10 AM - 11:55 AM
-
+- **Class Sessions:** Tuesday / Thursday 10:10 AM - 11:55 AM
+- **Office Hours:** Tuesday / Thursday 1:00 - 3:00 PM
 ---
 
 ## Contents
