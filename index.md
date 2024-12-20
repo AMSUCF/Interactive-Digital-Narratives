@@ -4,7 +4,8 @@
 - **Email:** asalter@carleton.edu
 - **Office:** Weitz 239A
 - **Class Sessions:** Tuesday / Thursday 10:10 AM - 11:55 AM
-- **Office Hours:** Tuesday / Thursday 1:00 - 3:00 PM
+- **Class Location:** Weitz Center 138
+- **Office Hours:** Tuesday / Thursday 1:00 - 2:45 PM
 ---
 
 ## Contents
