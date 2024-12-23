@@ -79,16 +79,16 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 
 - Tuesday: Class Overview and Play Together - [my body](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html), [Colossal Cave Adventure](https://rickadams.org/adventure/)
 - Thursday: [In-Class Making One - Paper & String Prototype](inclass_one.md)
-  - Genres of Electronic Literature, *Electronic Literature*
+  - Read: Genres of Electronic Literature, *Electronic Literature*
 
 **Week Two: Imagining the Book - January 14th and 16th** 
 
 - Tuesday: Play Together - [Endless Suburbs](https://the-next.eliterature.org/works/409/21/0/), [Victory Garden 2022](https://www.victory-garden2022.com/), [howling dogs](https://xrafstar.monster/games/twine/howlingdogs/) 
   - Read: *To Be or Not to Be* (explore - try to find an ending)
-  - Read: Introduction, *Twining*
+  - Read: Intermediation, *Electronic Literature*
 - Thursday: In-Class Making Two - Twine Links & Passages
   - Read: The Book as Object, *The Book*
-  - Read: Twine as Platform, *Twining*
+  - Read: Introduction and Twine as Platform, *Twining*
 
 **Week Three: Twines & Hypertext - January 21st and 23rd**
 
