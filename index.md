@@ -77,75 +77,81 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 
 **Week One: Choose Your Own Adventure - January 7th and 9th** 
 
-- Tuesday: Class Overview
-- Thursday: [In-Class Making - Paper & String Prototype](inclass_one.md)
-  - Read: The Book as Object, *The Book*
+- Tuesday: Class Overview and Play Together - [my body](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html), [Colossal Cave Adventure](https://rickadams.org/adventure/)
+- Thursday: [In-Class Making One - Paper & String Prototype](inclass_one.md)
+  - Genres of Electronic Literature, *Electronic Literature*
 
 **Week Two: Imagining the Book - January 14th and 16th** 
 
-- Tuesday: Play Together - Twines
+- Tuesday: Play Together - [Endless Suburbs](https://the-next.eliterature.org/works/409/21/0/), [Victory Garden 2022](https://www.victory-garden2022.com/), [howling dogs](https://xrafstar.monster/games/twine/howlingdogs/) 
   - Read: *To Be or Not to Be* (explore - try to find an ending)
   - Read: Introduction, *Twining*
-- Thursday: In-Class Making - Twine Links & Passages
-  - Read: *To Be or Not to Be* (look for a different ending)
+- Thursday: In-Class Making Two - Twine Links & Passages
+  - Read: The Book as Object, *The Book*
   - Read: Twine as Platform, *Twining*
 
 **Week Three: Twines & Hypertext - January 21st and 23rd**
 
-- Tuesday: Play Together - Twines
+- Tuesday: Play Together - [Queers in Love at the End of the World](https://w.itch.io/end-of-the-world), [Quing's Quest VII](https://collection.eliterature.org/3/work.html?work=quings-quest-vii), [With those we love alive](https://xrafstar.monster/games/twine/wtwla/)
   - Read: The Book as Content, *The Book* 
   - Read: Twine (R)evolutions, *Twining*
-- Thursday: In-Class Making - Conditionals & Choices
-  - Read: Twine Practical One (PDF)
+- Thursday: In-Class Making Three - Conditionals & Choices
+  - Read: Twine Practical One (PDF in Moodle)
+  - Read: Hypertext Fiction, *Electronic Literature*
   - **[Due January 23rd: Critique One - Hypertext](critiqueone.md)**
 
 **Week Four: Interactive Fiction - January 28th and 30th**
 
-- Tuesday: Play Together - 
-  - Read: Twine and the Question of Literature, *Twining*
-- Read: Twine Practical Two (PDF)
-- Read: Language, Verbs and Objects, *Game Design Vocabulary*
-- The Book as Idea, *The Book*
-- Make: Twine - Debugging & Style
+- Tuesday: Play Together - Bandersnatch, [Even Cowgirls Bleed](https://scoutshonour.com/cowgirl/), [my father's long long legs](https://ztul.itch.io/mflll)
+  - Read: The Book as Idea, *The Book*
+  - Read: Interactive Fiction, *Electronic Literature*
+- Thursday: In-Class Making Four - Debugging & Style
+  - Read: Kinetic & Interactive Poetry, *Electronic Literature*
+  - Read: Twine Practical Two (PDF in Moodle)
 
 **Week Five: Electronic Literature - February 4th and 6th**
 
-- Read: Queer Twine and Camp, *Twining*
-- Read: Scenes, *Game Design Vocabulary*
-- Make: Twine Game Playtest
-- **[Due February 6th: Twine Hypertext](twine.md)**
+- Tuesday: Play Together - [Dream Life of Letters](https://collection.eliterature.org/1/works/stefans__the_dreamlife_of_letters/dreamlife_index.html), [The HTML Review](https://thehtml.review/03/), [10 LOST BOYS](https://samplereality.itch.io/10-lost-boys)
+  - Read: Queer Twine and Camp, *Twining*
+  - Read: Language, *Game Design Vocabulary*
+- Thursday: In-Class Making - Twine Hypertext Showcase
+  - Read: Twine and the Critical Moment, *Twining*
+  - **[Due February 6th: Twine Hypertext](twine.md)**
 
 **Week Six: Digital Poetics - February 11th and 13th**
 
-- Read: Twine and the Critical Moment, *Twining*
-- Read: Context, *Game Design Vocabulary*
-- Make: Ren'Py Scenes
-- **[Due February 13th: Critique Two - Electronic Literature](critiquetwo.md)**
+- Tuesday: Play Together - Undertale, [Digital: A Love Story](https://collection.eliterature.org/3/work.html?work=digital-a-love-story)
+  - Read: Networked Writing, *Electronic Literature*
+  - Read: Verbs & Objects, *Game Design Vocabulary*
+- Thursday: In-Class Making Five - Ren'Py Conversation
+  - Read: Scenes, *Game Design Vocabulary*
 
 **Week Seven: Visual Novels - February 18th and 20th**
 
-- Read: Hypertext Fiction and Interactive Fiction, *Electronic Literature*
-- Read: Creating Dialogue, *Game Design Vocabulary*
-- Read: The Book as Interface, *The Book*
-- Make: Ren'Py Dialogues
+- Tuesday: Play Together - Dream Daddy, Monster Prom
+  - Read: The Book as Interface, *The Book*
+- Thursday: In-Class Making Six - Ren'Py Scenes
+  - Read: Context, *Game Design Vocabulary*
+  - **[Due February 20th: Critique Two - Electronic Literature](critiquetwo.md)**
 
 **Week Eight: Adventure Games - February 25th and 27th**
 
-- Read: Resistance, *Game Design Vocabulary* 
-- Read: Genres of Electronic Literature, *Electronic Literature*
-- Make: Ren'Py Choices
-- **[Due February 27th: Critique Three - Adventure Game](critiquethree.md)**
+- Tuesday: Play Together - Grim Fandango, I Have No Mouth and I Must Scream
+  - Read: Creating Dialogue, *Game Design Vocabulary*
+  - Read: Divergent Streams, *Electronic Literature*
+- Thursday: In-Class Making Seven - Ren'Py Dialogue 
+  - Read: Resistance, *Game Design Vocabulary* 
 
-**Week Nine: Storytelling - March 4th and 6th**
+**Week Nine: Environmental Storytelling - March 4th and 6th**
 
-- Read: Storytelling, *Game Design Vocabulary*
-- Read: Kinetic and Interactive Poetry, *Electronic Literature*
-- Make: Ren'Py Conclusions
+- Tuesday: Play Together - Kentucky Route Zero, NORCO
+  - Read: Storytelling, *Game Design Vocabulary*
+- Thursday: In-Class Making Eight - Ren'Py Endings 
+  - Read: Further Playing, *Game Design Vocabulary*
+  - **[Due March 6th: Critique Three - Adventure Game](critiquethree.md)**
 
 **Week Ten: Play and Critique - March 11th**
-- Read: Further Playing, *Game Design Vocabulary*
-- Read: Networked Writing, *Electronic Literature*
-- Make: Ren'Py Game Playtest
-- **[Due: Ren'Py Game](renpy.md)**
+- Tuesday: In-Class Making - Ren'Py Game Showcase
+  - **[Due March 11th: Ren'Py Game](renpy.md)**
 
 **Exam Day: Reflective Writing - Monday, March 17th, 8:30 - 11:00 AM**
