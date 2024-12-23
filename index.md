@@ -77,27 +77,35 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 
 **Week One: Choose Your Own Adventure - January 7th and 9th** 
 
-- Read: The Book as Object, *The Book*
-- Read: *To Be or Not to Be* (complete at least one traversal) 
-- Make: Paper & String Prototype
+- Tuesday: Class Overview
+- Thursday: [In-Class Making - Paper & String Prototype](inclass_one.md)
+  - Read: The Book as Object, *The Book*
 
 **Week Two: Imagining the Book - January 14th and 16th** 
 
-- Read: The Book as Content & The Book as Idea, *The Book*
-- Read: Introduction & Twine as Platform, *Twining*
-- Make: Twine - Links & Passages
+- Tuesday: Play Together - Twines
+  - Read: *To Be or Not to Be* (explore - try to find an ending)
+  - Read: Introduction, *Twining*
+- Thursday: In-Class Making - Twine Links & Passages
+  - Read: *To Be or Not to Be* (look for a different ending)
+  - Read: Twine as Platform, *Twining*
 
 **Week Three: Twines & Hypertext - January 21st and 23rd**
 
-- Read: The Book as Interface, *The Book*
-- Read: Twine (R)evolutions, *Twining*
-- Make: Twine - Conditionals & Choices
-- **[Due January 23rd: Critique One - Hypertext](critiqueone.md)**
+- Tuesday: Play Together - Twines
+  - Read: The Book as Content, *The Book* 
+  - Read: Twine (R)evolutions, *Twining*
+- Thursday: In-Class Making - Conditionals & Choices
+  - Read: Twine Practical One (PDF)
+  - **[Due January 23rd: Critique One - Hypertext](critiqueone.md)**
 
 **Week Four: Interactive Fiction - January 28th and 30th**
 
-- Read: Twine and the Question of Literature, *Twining*
+- Tuesday: Play Together - 
+  - Read: Twine and the Question of Literature, *Twining*
+- Read: Twine Practical Two (PDF)
 - Read: Language, Verbs and Objects, *Game Design Vocabulary*
+- The Book as Idea, *The Book*
 - Make: Twine - Debugging & Style
 
 **Week Five: Electronic Literature - February 4th and 6th**
@@ -118,6 +126,7 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 
 - Read: Hypertext Fiction and Interactive Fiction, *Electronic Literature*
 - Read: Creating Dialogue, *Game Design Vocabulary*
+- Read: The Book as Interface, *The Book*
 - Make: Ren'Py Dialogues
 
 **Week Eight: Adventure Games - February 25th and 27th**
