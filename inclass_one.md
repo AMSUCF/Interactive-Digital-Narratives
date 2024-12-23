@@ -10,4 +10,4 @@ Every passage should have a unique title: for simplicity, label your first card 
 
 Physically, the use of thread and tape between cards allows for some precision: you should tape your thread to the word, phrase, or choice might lead in one direction versus another. Build your prototype with the goal of having at least one complete path, with a sense of an ending and closure. Remember, all your index cards will need to be connected to something: a passage that doesn’t have a link in Twine will be completely inaccessible to the reader. 
 
-Post a photo of your team's completed prototype to the Google folder, with all contributor's first initials and last names as the file name, to receive full credit for this in-class exercise.
+**Post a photo of your team's completed prototype to the Moodle assignment to receive full credit for this in-class exercise.**
