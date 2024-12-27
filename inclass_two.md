@@ -16,7 +16,7 @@ When you use this structure, the links will display the initial phrase (before t
 
 The editing interface also includes options to style your text (shown below): these work similarly to any text editor, with options for text styling, colors, and alignment. Try experimenting with those as you add in the rest of your index cards. Every time you add a link to a passage with a title you haven’t created yet, the passage will pop up with that title, as shown.
 
-![Twine interface](../img/twinetwo.png)
+![Twine interface](twinetwo.png)
 
 You can test the essay as you go by selecting “Play” under the Build menu (shown in figure 5.) When the project is complete, you can share it with others by selecting “Publish to File”: this will allow you to save a complete .html file, viewable in any browser. 
 
