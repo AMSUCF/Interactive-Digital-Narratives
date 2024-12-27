@@ -86,7 +86,7 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 - Tuesday: Play Together - [Endless Suburbs](https://the-next.eliterature.org/works/409/21/0/), [Victory Garden 2022](https://www.victory-garden2022.com/), [howling dogs](https://xrafstar.monster/games/twine/howlingdogs/) 
   - Read: *To Be or Not to Be* (explore - try to find an ending)
   - Read: Intermediation, *Electronic Literature*
-- Thursday: In-Class Making Two - Twine Links & Passages
+- Thursday: [In-Class Making Two - Links & Passages](inclass_two.md)
   - Read: The Book as Object, *The Book*
   - Read: Introduction and Twine as Platform, *Twining*
 
