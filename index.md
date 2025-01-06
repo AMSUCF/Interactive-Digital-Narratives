@@ -6,6 +6,7 @@
 - **Class Sessions:** Tuesday / Thursday 10:10 AM - 11:55 AM
 - **Class Location:** Weitz Center 138
 - **Office Hours:** Tuesday / Thursday 1:00 - 2:45 PM
+
 ---
 
 ## Contents
