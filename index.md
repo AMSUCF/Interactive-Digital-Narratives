@@ -64,7 +64,7 @@ In addition, students may opt to purchase games for their critiques: however, fr
 |---|---|
 | 30 | **In-Class Making*** - Every week, we will work on collaborative and individual creative exercises to conceptualize, prototype, design, develop, and test games. In-class exercises cannot be made up, but one can be missed with no penalty. |
 | 15 | **Twine Hypertext** - Building on the in-class exercises, students will develop their own complete interactive hypertext in Twine, incorporating complex interactivity and digital storytelling with at least two meaningful endings. |
-| 15 | **Ren'Py Game** - Building on the in-class exercises, students will develop their own complete interactive narrative game in Twine, incorporating complex interactivity and digital storytelling with at least two meaningful endings. |
+| 15 | **Ren'Py Game** - Building on the in-class exercises, students will develop their own complete visual narrative game in Ren'Py, incorporating environments and characters to tell a story. | |
 | 30 |  **Interactive Digital Narrative Critiques** - Students will write three short papers reflecting on works of interactive digital narrative, selected from the provided lists for each genre or approved by the instructor. |
 | 10 |  **Final Reflection** - The final exam will consist of an in-class reflection putting forth a personal design philosophy, informed by course readings and games. |
 
