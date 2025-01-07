@@ -155,4 +155,4 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 - Tuesday: In-Class Making - Ren'Py Game Showcase
   - **[Due March 11th: Ren'Py Game](renpy.md)**
 
-**Exam Day: Reflective Writing - Monday, March 17th, 8:30 - 11:00 AM**
+**Take-Home Final Exam: Reflective Writing - Due Monday, March 17th**
