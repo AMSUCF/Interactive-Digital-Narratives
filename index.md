@@ -66,7 +66,7 @@ In addition, students may opt to purchase games for their critiques: however, fr
 | 15 | **Twine Hypertext** - Building on the in-class exercises, students will develop their own complete interactive hypertext in Twine, incorporating complex interactivity and digital storytelling with at least two meaningful endings. |
 | 15 | **Ren'Py Game** - Building on the in-class exercises, students will develop their own complete visual narrative game in Ren'Py, incorporating environments and characters to tell a story. | |
 | 30 |  **Interactive Digital Narrative Critiques** - Students will write three short papers reflecting on works of interactive digital narrative, selected from the provided lists for each genre or approved by the instructor. |
-| 10 |  **Final Reflection** - The final exam will consist of an in-class reflection putting forth a personal design philosophy, informed by course readings and games. |
+| 10 |  **Final Reflection** - The final exam will consist of a take-home reflection putting forth a personal design philosophy, informed by course readings and games. |
 
 Grades are calculated out of 100 following a standard letter scale. Digital projects and critiques will be accepted up to three days late with no penalty. Attended is expected, but only in-class exercises are formally graded: if you miss a class, a summary of what you missed will be posted along with slides and any other materials in the Moodle.
 
@@ -86,7 +86,7 @@ All readings should be completed before our Tuesday class meeting. Generally, Tu
 
 - Tuesday: Play Together - [Endless Suburbs](https://the-next.eliterature.org/works/409/21/0/), [Victory Garden 2022](https://www.victory-garden2022.com/), [howling dogs](https://xrafstar.monster/games/twine/howlingdogs/) 
   - Read: *To Be or Not to Be* (explore - try to find an ending)
-  - Read: Intermediation, *Electronic Literature*
+  - Read: Combinatory Poetics, *Electronic Literature*
 - Thursday: [In-Class Making Two - Links & Passages](inclass_two.md)
   - Read: The Book as Object, *The Book*
   - Read: Introduction and Twine as Platform, *Twining*
