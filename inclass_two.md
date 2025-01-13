@@ -2,6 +2,8 @@
 
 Today, we will be working in pairs through building working, playable versions of last week's prototypes.When you are using Twine on your own computer, you can download and install Twine by selecting “Download Desktop App” on the main menu. However, if you can’t install software on the computer you are using, you can select “Use in your browser” at [Twinery.org](https://twinery.org). 
 
+### Initial Prototype
+
 Start by selecting “+New” to create a new project, and name it with the name of your project you decided on during the physical prototype. After you’ve typed and confirmed the name, the main editing screen (shown below) will load. Note that Twine isn’t a hosting service, so when you’re working online make sure to select the option to “Publish to file” (under “Build” in the story menu) frequently to save your work. 
 
 ![Twine interface](twine.png)
@@ -18,6 +20,12 @@ The editing interface also includes options to style your text (shown below): th
 
 ![Twine interface](twinetwo.png)
 
-You can test the essay as you go by selecting “Play” under the Build menu (shown in figure 5.) When the project is complete, you can share it with others by selecting “Publish to File”: this will allow you to save a complete .html file, viewable in any browser. 
+### Iterations and Export
 
-**Post the .html export of your team's completed prototype to the Moodle assignment to receive full credit for this in-class exercise.**
+You can test the essay as you go by selecting “Play” under the Build menu (shown in figure 5.) 
+
+Over the coures of our making exercises, we will gradually integrate additional visual elements into the work. Make sure to include at least some of these in your playable prototype: think about the color palette, text styles, and readability of your work. 
+
+When the project is complete, you can share it with others by selecting “Publish to File”: this will allow you to save a complete .html file, viewable in any browser. 
+
+**Post the .html export of your team's completed prototype to the Moodle assignment on Thursday to receive full credit for this in-class exercise.**
