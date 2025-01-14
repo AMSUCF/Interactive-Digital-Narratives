@@ -74,7 +74,7 @@ Grades are calculated out of 100 following a standard letter scale. Digital proj
 
 ## Weekly Schedule
 
-All readings should be completed before our Tuesday class meeting. Generally, Tuesday meetings will focus on lecture and discussion, with close play of games, while Thursdays will involve making exercises and build towards the two creative projects.
+All readings should be completed before the listed class meeting. Generally, Tuesday meetings will focus on lecture and discussion, with close play of games, while Thursdays will involve making exercises and build towards the two creative projects: however, this will vary as we progress. Works listed as "play together" will be explored in class, no need to play ahead!
 
 **Week One: Choose Your Own Adventure - January 7th and 9th** 
 
