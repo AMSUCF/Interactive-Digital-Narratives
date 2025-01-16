@@ -96,6 +96,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 - Tuesday: Play Together - [Queers in Love at the End of the World](https://w.itch.io/end-of-the-world), [Quing's Quest VII](https://collection.eliterature.org/3/work.html?work=quings-quest-vii), [With those we love alive](https://xrafstar.monster/games/twine/wtwla/)
   - Read: The Book as Content, *The Book* 
   - Read: Twine (R)evolutions, *Twining*
+  - Demo: [Continuing with Macros](Twine_Grade_Change.html)
 - Thursday: In-Class Making Three - Conditionals & Choices
   - Read: Twine Practical One (PDF in Moodle)
   - Read: Hypertext Fiction, *Electronic Literature*
