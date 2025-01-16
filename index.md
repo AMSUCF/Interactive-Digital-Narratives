@@ -93,7 +93,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 
 **Week Three: Twines & Hypertext - January 21st and 23rd**
 
-- Tuesday: Play Together - [Queers in Love at the End of the World](https://w.itch.io/end-of-the-world), [Quing's Quest VII](https://collection.eliterature.org/3/work.html?work=quings-quest-vii), [With those we love alive](https://xrafstar.monster/games/twine/wtwla/)
+- Tuesday: Play Together - [Queers in Love at the End of the World](https://w.itch.io/end-of-the-world), [Quing's Quest VII](https://collection.eliterature.org/3/work.html?work=quings-quest-vii), [With those we love alive](https://xrafstar.monster/games/twine/wtwla/), [The Master of the Land](https://pseudavid.itch.io/the-master-of-the-land)
   - Read: The Book as Content, *The Book* 
   - Read: Twine (R)evolutions, *Twining*
   - Demo: [Continuing with Macros](Twine_Grade_Change.html)
@@ -104,7 +104,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 
 **Week Four: Interactive Fiction - January 28th and 30th**
 
-- Tuesday: Play Together - Bandersnatch, [Even Cowgirls Bleed](https://scoutshonour.com/cowgirl/), [my father's long long legs](https://ztul.itch.io/mflll)
+- Tuesday: Play Together - Bandersnatch, [Even Cowgirls Bleed](https://scoutshonour.com/cowgirl/), [my father's long long legs](https://ztul.itch.io/mflll), [the uncle who works for nintendo](https://ztul.itch.io/the-uncle-who-works-for-nintendo)
   - Read: The Book as Idea, *The Book*
   - Read: Interactive Fiction, *Electronic Literature*
 - Thursday: In-Class Making Four - Debugging & Style
