@@ -100,7 +100,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 - Thursday: [In-Class Making Three - Conditionals & Choices](inclass_three.md)
   - Read: Twine Practical One (PDF in Moodle)
   - Read: Hypertext Fiction, *Electronic Literature*
-  - **[Due January 23rd: Critique One - Hypertext](critiqueone.md)**
+  - **[Due January 24th: Critique One - Hypertext](critiqueone.md)**
 
 **Week Four: Interactive Fiction - January 28th and 30th**
 
