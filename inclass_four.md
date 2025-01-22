@@ -23,4 +23,4 @@ The layout of Bitsy consists of a series of different sections that modify diffe
 
 If you want to go further with a particular element of Bitsy, consider using this [tutorial video series](https://videlais.com/bitsy-tutorials/), which cover animation and conditional dialog in more detail than the demo we'll be working from in class.f you have more experience and are feeling limited by Bitsy, you can take a look at [Borksy](https://ayolland.itch.io/borksy) to expand your options. This is a set of "hacks," or prewritten scripts not unlike the ones we used for macros in Twine. Some of the options you might find particularly useful include dialog choices, a mult-sprite avatar, and character portraits.
 
-To submit for credit in the in-class exercise, upload your exported .html file to the Moodle. Consider [hosting your work on itch.io.](https://itch.io/docs/creators/html5) if you want to share it beyond the class.
+To submit for credit in the in-class exercise, upload your exported .html file to GitHub Pages and share the link to the deployed version. Refer to our [demo](github.md) for the steps.
