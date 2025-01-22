@@ -8,4 +8,4 @@ For this project, we'll be focusing on text and interaction. Your hypertext shou
 - **Visuals and interface:** Using CSS and the macros available, along with properly credited or original illustrations as appropriate, develop an aesthetic for play that fits with the work. Consider color, contrast, readability, and intentional play with fonts. (3 points)
 - **Playful interactions:** Think about opportunities to surprise, challenge, and engage your reader through Twine's hypertextual navigation. Consider the examples we've seen and try experimenting with similar concepts. (3 points)
 
-Submit your final game directly through Moodle, or host it on itch.io as preferred. We will play games together in-class, so games must be submitted before our class meeting on February 6th!
+Host your work on [GitHub Pages](github.md) or another web server, and submit the link on Moodle. We will play games together in-class, so games must be submitted before our class meeting on February 6th!

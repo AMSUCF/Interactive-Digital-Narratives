@@ -105,6 +105,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 **Week Four: Interactive Fiction - January 28th and 30th**
 
 - Tuesday: Play Together - Bandersnatch, [Even Cowgirls Bleed](https://scoutshonour.com/cowgirl/), [The Master of the Land](https://pseudavid.itch.io/the-master-of-the-land), [my father's long long legs](https://ztul.itch.io/mflll), [the uncle who works for nintendo](https://ztul.itch.io/the-uncle-who-works-for-nintendo)
+  - Demo: [GitHub Pages](github.md)
   - Read: The Book as Idea, *The Book*
   - Read: Interactive Fiction, *Electronic Literature*
 - Thursday: [In-Class Making Four - Bitsy](inclass_four.md)
