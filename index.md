@@ -115,6 +115,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 **Week Five: Electronic Literature - February 4th and 6th**
 
 - Tuesday: Play Together - [Dream Life of Letters](https://collection.eliterature.org/1/works/stefans__the_dreamlife_of_letters/dreamlife_index.html), [The HTML Review](https://thehtml.review/03/), [10 LOST BOYS](https://samplereality.itch.io/10-lost-boys)
+  - Work Time: [Finishing Twine](finishing_twine.md)
   - Read: Queer Twine and Camp, *Twining*
   - Read: Language, *Game Design Vocabulary*
 - Thursday: In-Class Making - Twine Hypertext Showcase
