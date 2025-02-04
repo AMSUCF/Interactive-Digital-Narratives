@@ -2,7 +2,6 @@
 
 Our third and final critique exercises focuses on adventure games, broadly interpreted. The suggested games including walking simulators, "point and click" graphic adventures, visual novels, and many other sub-genres. I know this list can be overwhelming, but I encourage you to look at games you've purchased but haven't had time to play (particularly from Humble Bundles and Steam sales) to see if one is on this list. You can also read reviews of many of these games at [Adventure Gamers](https://adventuregamers.com/). I've tried to include a mix of exceptional titles from the past decade as well as very recent releases. There are several free or very cheap titles on the list, as well as a few larger releases that are more expensive, so I encourage you to take some time choosing. As before, if you wish to suggest an alternative title, please get it approved by me in advance.
 
-- [Butterfly Soup (free)](https://brianna-lei.itch.io/butterfly-soup)
 - [What Never Was (free)](https://store.steampowered.com/app/866440/What_Never_Was/)
 - [Marie's Room](https://store.steampowered.com/app/648390/Maries_Room/) 
 - [Purrgatory (free)](https://store.steampowered.com/app/1713610/Purrgatory/)
@@ -34,4 +33,4 @@ Consider using the keywords and filters to find a work of interest to you. You'l
 - **Discuss the work's design and narrative choices.** Using references to the *Game Design Vocabulary* to define the game's key mechanics, describe the game's overall system of play and central narrative.
 - **Analyze 2-3 key moments in your traversals.** Provide context, screenshots, and quotes as helpful, but make sure not just to describe what's happening: critique it, and think about what makes it stand out to you. 
 
-As with our previous critiques, don't worry about academic formality in your voice: feel free to use "I." A brief works cited should be included for any course texts, reviews, or games referenced.
+As with our previous critiques, don't worry about academic formality in your voice: feel free to use "I." A brief works cited should be included for any course texts, reviews, or games referenced. Remember, at least two citations of *Game Design Vocabulary* are required, and additional course text citations are recommended.

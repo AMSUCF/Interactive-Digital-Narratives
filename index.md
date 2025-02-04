@@ -118,16 +118,18 @@ All readings should be completed before the listed class meeting. Generally, Tue
   - Work Time: [Finishing Twine](finishing_twine.md)
   - Read: Queer Twine and Camp, *Twining*
   - Read: Language, *Game Design Vocabulary*
-- Thursday: In-Class Making - Twine Hypertext Showcase
+- Thursday: In-Class Making - Twine Hypertext Showcase 
   - Read: Twine and the Critical Moment, *Twining*
   - **[Due February 6th: Twine Hypertext](twine.md)**
 
 **Week Six: Digital Poetics - February 11th and 13th**
 
 - Tuesday: Play Together - Undertale, [Digital: A Love Story](https://collection.eliterature.org/3/work.html?work=digital-a-love-story)
+  - Demo: Installing + Configuring Ren'Py
   - Read: Networked Writing, *Electronic Literature*
   - Read: Verbs & Objects, *Game Design Vocabulary*
-- Thursday: In-Class Making Five - Ren'Py Conversation
+- Thursday: [In-Class Making Five - Ren'Py Basics](inclass_six.md)
+  - Play Together: Doki Doki Literature Club, [Butterfly Soup](https://brianna-lei.itch.io/butterfly-soup)
   - Read: Scenes, *Game Design Vocabulary*
 
 **Week Seven: Visual Novels - February 18th and 20th**

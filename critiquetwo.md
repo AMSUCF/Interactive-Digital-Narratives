@@ -9,8 +9,8 @@ Select any work that has been included in the Electronic Literature Collections.
   
 Consider using the keywords and filters to find a work of interest to you. You'll need to complete at least one traversal of the work (2-3 are recommended) and document the process, so I suggest using screenshots to track interesting moments as you go. This analysis should be a short (500 - 750 words) essay. Your critique should include:
 
-- **Briefly, describe the work in terms of Rettberg's definitions of electronic literature.** Note any unusual characteristics (such as the integration of a stats system, visuals etc) and make any comparisons to the other works we've viewed so far you find helpful
+- **Briefly, describe the work in terms of Rettberg's definitions of electronic literature.** Note any unusual characteristics (such as the integration of a stats system, visuals etc) and make any comparisons to the other works we've viewed so far you find helpful. You must cite Rettberg in your response.
 - **Discuss the work's design and narrative choices.** Are their decision points you found particularly striking? A character perspective that surprised you? Emotional stakes to the narrative that provide unusual engagement? Be precise and pick the most interesting part of the work from your perspective.
 - **Analyze 2-3 key moments in your traversals.** Provide context, screenshots, and quotes as helpful, but make sure not just to describe what's happening: critique it, and think about what makes it stand out to you. Does it remind you of moments in our exploration of hypertexts, or is there a different type of interactivity or narrative design at work?
 
-As with our first critique, don't worry about academic formality in your voice: feel free to use "I." A brief works cited should be included for any course texts, reviews, or games referenced.
+As with our first critique, don't worry about academic formality in your voice: feel free to use "I." A brief works cited should be included for any course texts, reviews, or games referenced - remember, at least one Rettberg citation is required, and a citation of Game Design Vocabulary is recommended.
