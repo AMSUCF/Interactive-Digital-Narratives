@@ -118,7 +118,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
   - Work Time: [Finishing Twine](finishing_twine.md)
   - Read: Queer Twine and Camp, *Twining*
   - Read: Language, *Game Design Vocabulary*
-- Thursday: In-Class Making - Twine Hypertext Showcase 
+- Thursday: In-Class Making Five - Twine Hypertext Showcase 
   - Read: Twine and the Critical Moment, *Twining*
   - **[Due February 6th: Twine Hypertext](twine.md)**
 
@@ -128,7 +128,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
   - Demo: Installing + Configuring Ren'Py
   - Read: Networked Writing, *Electronic Literature*
   - Read: Verbs & Objects, *Game Design Vocabulary*
-- Thursday: [In-Class Making Five - Ren'Py Basics](inclass_six.md)
+- Thursday: [In-Class Making Six - Ren'Py Basics](inclass_six.md)
   - Play Together: Doki Doki Literature Club, [Butterfly Soup](https://brianna-lei.itch.io/butterfly-soup)
   - Read: Scenes, *Game Design Vocabulary*
 
@@ -136,7 +136,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 
 - Tuesday: Play Together - Dream Daddy, Monster Prom
   - Read: The Book as Interface, *The Book*
-- Thursday: In-Class Making Six - Ren'Py Scenes
+- Thursday: In-Class Making Seven - Ren'Py Scenes
   - Read: Context, *Game Design Vocabulary*
   - **[Due February 20th: Critique Two - Electronic Literature](critiquetwo.md)**
 
@@ -145,19 +145,19 @@ All readings should be completed before the listed class meeting. Generally, Tue
 - Tuesday: Play Together - Grim Fandango, I Have No Mouth and I Must Scream, Gabriel Knight
   - Read: Creating Dialogue, *Game Design Vocabulary*
   - Read: Divergent Streams, *Electronic Literature*
-- Thursday: In-Class Making Seven - Ren'Py Dialogue 
+- Thursday: In-Class Making Eight - Ren'Py Dialogue 
   - Read: Resistance, *Game Design Vocabulary* 
 
 **Week Nine: Environmental Storytelling - March 4th and 6th**
 
 - Tuesday: Play Together - Kentucky Route Zero, Undertale
   - Read: Storytelling, *Game Design Vocabulary*
-- Thursday: In-Class Making Eight - Ren'Py Endings 
+- Thursday: In-Class Making Nine - Ren'Py Endings 
   - Read: Further Playing, *Game Design Vocabulary*
   - **[Due March 6th: Critique Three - Adventure Game](critiquethree.md)**
 
 **Week Ten: Play and Critique - March 11th**
-- Tuesday: In-Class Making - Ren'Py Game Showcase
+- Tuesday: In-Class Making Ten - Ren'Py Game Showcase
   - **[Due March 11th: Ren'Py Game](renpy.md)**
 
 **Take-Home Final Exam: Reflective Writing - Due Monday, March 17th**
