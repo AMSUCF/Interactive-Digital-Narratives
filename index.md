@@ -124,7 +124,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 
 **Week Six: Digital Poetics - February 11th and 13th**
 
-- Tuesday: Play Together - Undertale, [Digital: A Love Story](https://collection.eliterature.org/3/work.html?work=digital-a-love-story)
+- Tuesday: Play Together - Day of the Tentacle, [Digital: A Love Story](https://collection.eliterature.org/3/work.html?work=digital-a-love-story)
   - Demo: Installing + Configuring Ren'Py
   - Read: Networked Writing, *Electronic Literature*
   - Read: Verbs & Objects, *Game Design Vocabulary*
@@ -142,7 +142,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 
 **Week Eight: Adventure Games - February 25th and 27th**
 
-- Tuesday: Play Together - Grim Fandango, I Have No Mouth and I Must Scream
+- Tuesday: Play Together - Grim Fandango, I Have No Mouth and I Must Scream, Gabriel Knight
   - Read: Creating Dialogue, *Game Design Vocabulary*
   - Read: Divergent Streams, *Electronic Literature*
 - Thursday: In-Class Making Seven - Ren'Py Dialogue 
@@ -150,7 +150,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 
 **Week Nine: Environmental Storytelling - March 4th and 6th**
 
-- Tuesday: Play Together - Kentucky Route Zero, NORCO
+- Tuesday: Play Together - Kentucky Route Zero, Undertale
   - Read: Storytelling, *Game Design Vocabulary*
 - Thursday: In-Class Making Eight - Ren'Py Endings 
   - Read: Further Playing, *Game Design Vocabulary*
