@@ -147,13 +147,15 @@ All readings should be completed before the listed class meeting. Generally, Tue
   - Read: Creating Dialogue, *Game Design Vocabulary*
   - Read: Divergent Streams, *Electronic Literature*
 - Thursday: In-Class Making Eight - Extending Ren'Py Dialogue 
+  - Play Together: Gone Home, What Remains of Edith Finch, Firewatch
   - Read: Resistance, *Game Design Vocabulary* 
 
 **Week Nine: Environmental Storytelling - March 4th and 6th**
 
-- Tuesday: Play Together - Kentucky Route Zero, Undertale
+- Tuesday: Play Together - Kentucky Route Zero, Undertale, NORCO
   - Read: Storytelling, *Game Design Vocabulary*
 - Thursday: In-Class Making Nine - Building Ren'Py Endings 
+  - Play Together - Spiritfarer, A Short Hike, Unpacking
   - Read: Further Playing, *Game Design Vocabulary*
   - **[Due March 7th: Critique Three - Adventure Game](critiquethree.md)**
 
