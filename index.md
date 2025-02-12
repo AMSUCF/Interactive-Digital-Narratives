@@ -129,14 +129,15 @@ All readings should be completed before the listed class meeting. Generally, Tue
   - Read: Networked Writing, *Electronic Literature*
   - Read: Verbs & Objects, *Game Design Vocabulary*
 - Thursday: [In-Class Making Six - Ren'Py Basics](inclass_six.md)
-  - Play Together: Doki Doki Literature Club, [Butterfly Soup](https://brianna-lei.itch.io/butterfly-soup)
+  - Play Together: Doom, Myst, [Butterfly Soup](https://brianna-lei.itch.io/butterfly-soup)
   - Read: Scenes, *Game Design Vocabulary*
 
 **Week Seven: Visual Novels - February 18th and 20th**
 
-- Tuesday: Play Together - Dream Daddy, Monster Prom
+- Tuesday: Play Together - Dream Daddy, Monster Prom, Doki Doki Literature Club
   - Read: The Book as Interface, *The Book*
-- Thursday: In-Class Making Seven - Ren'Py Scenes
+  - Demo Part One: [Ren'Py Murder Mystery](renpy_murder_mystery.md)
+- Thursday: [In-Class Making Seven - Finish Ren'Py Murder Mystery](renpy_murder_mystery.md)
   - Read: Context, *Game Design Vocabulary*
   - **[Due February 20th: Critique Two - Electronic Literature](critiquetwo.md)**
 
@@ -145,14 +146,14 @@ All readings should be completed before the listed class meeting. Generally, Tue
 - Tuesday: Play Together - Grim Fandango, I Have No Mouth and I Must Scream, Gabriel Knight
   - Read: Creating Dialogue, *Game Design Vocabulary*
   - Read: Divergent Streams, *Electronic Literature*
-- Thursday: In-Class Making Eight - Ren'Py Dialogue 
+- Thursday: In-Class Making Eight - Extending Ren'Py Dialogue 
   - Read: Resistance, *Game Design Vocabulary* 
 
 **Week Nine: Environmental Storytelling - March 4th and 6th**
 
 - Tuesday: Play Together - Kentucky Route Zero, Undertale
   - Read: Storytelling, *Game Design Vocabulary*
-- Thursday: In-Class Making Nine - Ren'Py Endings 
+- Thursday: In-Class Making Nine - Building Ren'Py Endings 
   - Read: Further Playing, *Game Design Vocabulary*
   - **[Due March 6th: Critique Three - Adventure Game](critiquethree.md)**
 
