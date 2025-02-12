@@ -139,7 +139,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
   - Demo Part One: [Ren'Py Murder Mystery](renpy_murder_mystery.md)
 - Thursday: [In-Class Making Seven - Finish Ren'Py Murder Mystery](inclass_seven.md)
   - Read: Context, *Game Design Vocabulary*
-  - **[Due February 20th: Critique Two - Electronic Literature](critiquetwo.md)**
+  - **[Due February 21st: Critique Two - Electronic Literature](critiquetwo.md)**
 
 **Week Eight: Adventure Games - February 25th and 27th**
 
@@ -155,7 +155,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
   - Read: Storytelling, *Game Design Vocabulary*
 - Thursday: In-Class Making Nine - Building Ren'Py Endings 
   - Read: Further Playing, *Game Design Vocabulary*
-  - **[Due March 6th: Critique Three - Adventure Game](critiquethree.md)**
+  - **[Due March 7th: Critique Three - Adventure Game](critiquethree.md)**
 
 **Week Ten: Play and Critique - March 11th**
 - Tuesday: In-Class Making Ten - Ren'Py Game Showcase
