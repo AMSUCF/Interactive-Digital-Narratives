@@ -137,7 +137,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
 - Tuesday: Play Together - Dream Daddy, Monster Prom, Doki Doki Literature Club
   - Read: The Book as Interface, *The Book*
   - Demo Part One: [Ren'Py Murder Mystery](renpy_murder_mystery.md)
-- Thursday: [In-Class Making Seven - Finish Ren'Py Murder Mystery](renpy_murder_mystery.md)
+- Thursday: [In-Class Making Seven - Finish Ren'Py Murder Mystery](inclass_seven.md)
   - Read: Context, *Game Design Vocabulary*
   - **[Due February 20th: Critique Two - Electronic Literature](critiquetwo.md)**
 
