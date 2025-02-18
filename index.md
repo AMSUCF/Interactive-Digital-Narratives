@@ -146,14 +146,14 @@ All readings should be completed before the listed class meeting. Generally, Tue
 - Tuesday: Play Together - Grim Fandango, I Have No Mouth and I Must Scream, Gabriel Knight
   - Read: Creating Dialogue, *Game Design Vocabulary*
   - Read: Divergent Streams, *Electronic Literature*
-  - Demo: Images, Transforms, and GUIs
-- Thursday: In-Class Making Eight - Extending Ren'Py Dialogue 
-  - Play Together: Gone Home, What Remains of Edith Finch, Firewatch
+  - Demo Part One: [Ren'Py RPG](renpy_rpg)
+- Thursday: [In-Class Making Eight - RPG](inclass_eight.md) 
+  - Play Together: Gone Home, What Remains of Edith Finch, Undertale
   - Read: Resistance, *Game Design Vocabulary* 
 
 **Week Nine: Environmental Storytelling - March 4th and 6th**
 
-- Tuesday: Play Together - Kentucky Route Zero, Undertale, NORCO
+- Tuesday: Play Together - Kentucky Route Zero, Firewatch, NORCO
   - Read: Storytelling, *Game Design Vocabulary*
   - Demo: Logic, Conditionals, and Complexity
 - Thursday: In-Class Making Nine - Building Ren'Py Endings 
