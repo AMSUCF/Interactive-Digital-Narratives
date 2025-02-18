@@ -138,6 +138,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
   - Read: The Book as Interface, *The Book*
   - Demo Part One: [Ren'Py Murder Mystery](renpy_murder_mystery.md)
 - Thursday: [In-Class Making Seven - Finish Ren'Py Murder Mystery](inclass_seven.md)
+  - Play Together - Stillwater, Long Live the Queen, King of the Cul-De-Sac
   - Read: Context, *Game Design Vocabulary*
   - **[Due February 21st: Critique Two - Electronic Literature](critiquetwo.md)**
 
@@ -148,14 +149,14 @@ All readings should be completed before the listed class meeting. Generally, Tue
   - Read: Divergent Streams, *Electronic Literature*
   - Demo Part One: [Ren'Py RPG](renpy_rpg)
 - Thursday: [In-Class Making Eight - RPG](inclass_eight.md) 
-  - Play Together: Gone Home, What Remains of Edith Finch, Undertale
+  - Play Together - Gone Home, What Remains of Edith Finch, Undertale
   - Read: Resistance, *Game Design Vocabulary* 
 
 **Week Nine: Environmental Storytelling - March 4th and 6th**
 
 - Tuesday: Play Together - Kentucky Route Zero, Firewatch, NORCO
   - Read: Storytelling, *Game Design Vocabulary*
-  - Demo: Logic, Conditionals, and Complexity
+  - Demo: Debugging Logic, Conditionals, and Complexity
 - Thursday: In-Class Making Nine - Building Ren'Py Endings 
   - Play Together - Spiritfarer, A Short Hike, Unpacking
   - Read: Further Playing, *Game Design Vocabulary*
