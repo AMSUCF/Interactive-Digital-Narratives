@@ -156,8 +156,8 @@ All readings should be completed before the listed class meeting. Generally, Tue
 
 - Tuesday: Play Together - Kentucky Route Zero, Firewatch, NORCO
   - Read: Storytelling, *Game Design Vocabulary*
-  - Demo: Debugging Logic, Conditionals, and Work Time
-- Thursday: [In-Class Making Nine - Polishing and GUIs](https://www.renpy.org/doc/html/gui.html)
+  - Demo: [GUIs and Work Time](https://www.renpy.org/doc/html/gui.html)
+- Thursday: [In-Class Making Nine - Polishing and GUIs](inclass_nine.md)
   - Play Together - Spiritfarer, A Short Hike, Unpacking
   - Read: Further Playing, *Game Design Vocabulary*
   - **[Due March 7th: Critique Three - Adventure Game](critiquethree.md)**
