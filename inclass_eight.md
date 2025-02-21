@@ -1,4 +1,4 @@
-## Building a Ren'Py RPG
+## In Class Making Eight: Building a Ren'Py RPG
 
 Over the course of Tuesday and Thursday's class, we will work through the structure of a simple [RPG](renpy_rpg) incorporating new custom screens, multiple potential characters, side character images, turn-based combat, and conditional-driven dialogue and outcomes.
 
