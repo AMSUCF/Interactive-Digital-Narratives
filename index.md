@@ -158,7 +158,7 @@ All readings should be completed before the listed class meeting. Generally, Tue
   - Read: Storytelling, *Game Design Vocabulary*
   - Demo: [GUIs and Work Time](https://www.renpy.org/doc/html/gui.html)
 - Thursday: [In-Class Making Nine - Polishing and GUIs](inclass_nine.md)
-  - Play Together - Spiritfarer, A Short Hike, Unpacking
+  - Play Together - A Short Hike, Emily is Away, The Wreck, Venba
   - Read: Further Playing, *Game Design Vocabulary*
   - **[Due March 7th: Critique Three - Adventure Game](critiquethree.md)**
 
